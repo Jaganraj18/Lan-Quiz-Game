@@ -95,6 +95,6 @@ Edit questions.json using this format:
 
 "answer" is the option number (1, 2, 3, or 4).
 
-Note
+Note:-
 
-Create a folder for
+Create a folder name as assets for (login-bg.svg) for interactive background for login page.
