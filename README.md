@@ -94,3 +94,7 @@ Edit questions.json using this format:
 }
 
 "answer" is the option number (1, 2, 3, or 4).
+
+Note
+
+Create a folder for
